@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: rgb(150, 235, 247);
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: rgb(94, 166, 217);
+    padding: 1rem;
+    text-align: center;
+    width: 100%;
+}
+
+.main {
+    float: left;
+}
+
+header li {
+    text-decoration-style: none;
+    display: inline-block;
+    margin: 9px;
+    font-size: 1.3rem;
+    font-family: monospace;
+}
